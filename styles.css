@@ -81,6 +81,27 @@ h3 {
     justify-content: center;
 }
 
+.mt-4 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body {
+    background: orange;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 30px;
+}
+
+.p1 {
+    position: relative;
+    top: 20px;
+}
+
 .email-link:hover {
     text-decoration: underline;
   }
